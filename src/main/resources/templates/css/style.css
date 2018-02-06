@@ -1,0 +1,16 @@
+img {
+    max-width: 50%;
+    max-height: 50%;
+}
+
+
+/*Rounded Borders for Pictures */
+img:hover {
+    box-shadow: 0 0 4px 1px rgba(0, 140, 186, 0.5);
+}
+
+
+/*Rounded Borders for Pictures */
+img {
+    border-radius: 8px;
+}
